@@ -1,6 +1,10 @@
 【Linux】Linux下的包管理器-Linuxbrew (Homebrew)
 ============================================
 
+## Youtube视频讲解
+
+https://youtu.be/He_DvVlOdw8
+
 ## 知识点
 
 + macOS下的知名包管理器 Homebrew 在Linux环境下的安装与使用
